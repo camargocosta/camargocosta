@@ -1,0 +1,33 @@
+frase = input('Digite a palavra que será transformada:')
+frase = frase.replace('a','·-')
+frase = frase.replace('b','_...')
+frase = frase.replace('c','_._.')
+frase = frase.replace('d','_..')
+frase = frase.replace('e','.')
+frase = frase.replace('f','.._.')
+frase = frase.replace('g','__.')
+frase = frase.replace('h','....')
+frase = frase.replace('i','..')
+frase = frase.replace('j','.___')
+frase = frase.replace('k','_._')
+frase = frase.replace('l','._..')
+frase = frase.replace('m','--')
+frase = frase.replace('n','_.')
+frase = frase.replace('o','---')
+frase = frase.replace('p','.__.')
+frase = frase.replace('q','__._')
+frase = frase.replace('r','._.')
+frase = frase.replace('s','...')
+frase = frase.replace('t','-')
+frase = frase.replace('u','.._')
+frase = frase.replace('v','..._')
+frase = frase.replace('w','.__')
+frase = frase.replace('x','_.._')
+frase = frase.replace('y','_.__')
+frase = frase.replace('z','__..')
+
+
+print(frase)
+
+
+
